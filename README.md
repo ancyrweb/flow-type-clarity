@@ -10,5 +10,5 @@ I'm not a lot into subclass theory and stuff but it seems to be necessary to hav
 the why and not only the how helps a lot about reasonning flowtype errors.
 
 ## Summary
-* [Property Invariance](src/propertyInvariance)
-* [Property Variance](src/propertyVariance)
+* [Property Invariance](src/propertyInvariance.js)
+* [Property Variance](src/propertyVariance.js)
