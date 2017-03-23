@@ -1,0 +1,14 @@
+{
+  "name": "flow-type-clarity",
+  "version": "1.0.0",
+  "description": "A way to understand hardest flowtype concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rewieer",
+  "license": "ISC",
+  "devDependencies": {
+    "flow-bin": "^0.42.0"
+  }
+}
